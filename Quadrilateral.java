@@ -17,6 +17,6 @@ public class Quadrilateral {
     }
 
     public boolean isParallelogram() {
-        return (A.distance(B) == C.distance(D)) && (B.distance(C) == D.distance(A));g
+        return (A.distance(B) == C.distance(D)) && (B.distance(C) == D.distance(A));
     }
 }
