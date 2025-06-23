@@ -1,4 +1,4 @@
-public Class Quadrilateral {
+public class Quadrilateral {
 
     Point A;
     Point B;
