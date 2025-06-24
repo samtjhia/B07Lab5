@@ -9,11 +9,11 @@ public class Circle {
 		this.radius = radius; 
 	}
 	
-	public double circumference(double radius) {
+	public double circumference() {
 		return 2 * Math.PI * radius; 
 	}
 	
-	public double area(double radius) {
+	public double area() {
 		return Math.PI * Math.pow(radius, 2); 
 	}
 	
